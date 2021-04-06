@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+body {
+    background-color: rgb(212 212 212);
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+}
+
+.content {
+    width: 100%;
+    /* background-color: blue; */
+    margin: 8rem auto;
+}
+.quadro {
+    width:60%;
+    background: #6c669c;
+    display: block;
+    margin: 1rem auto;
+    padding: 1.5rem 0;
+}
+
+form label {
+    padding-left: 2rem;
+}
+
+form input{
+    width: 90%;
+    display: block;
+    margin: 10px auto;
+    padding: 5px;
+}
+
+.btnForm {
+    border:none;
+    width: 50%;
+    padding: 10px;
+    cursor: pointer;
+    background-color: #d4d4d4;
+    margin-top: 35px;
+}
+#registration-form {
+    width: 30%;
+    margin: auto;
+    font-weight: bolder;
+}
+
+#registration-form {
+    text-align: center;
+}

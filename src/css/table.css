@@ -1,0 +1,27 @@
+#table {
+    /* background-color: red; */
+    margin: 1rem auto;
+    width:80%;
+    margin: 5rem auto;
+}
+
+table {
+    margin: 0 auto;
+    width:100%;
+    background-color: #6c669c;
+}
+
+/* table td {
+    max-width: 100%;
+    background-color: pink;
+} */
+
+.btn {
+    float: right;
+    margin: 0 10px
+}
+
+#btnNew {
+    float:right;
+    margin: 10px 10px
+}
